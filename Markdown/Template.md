@@ -1,4 +1,4 @@
-![latest tag](https://img.shields.io/github/v/tag/gtuja/CSC_MS.svg?color=brightgreen)
+![latest tag](https://img.shields.io/github/v/tag/gtuja/Templates.svg?color=brightgreen)
 [![Git](https://img.shields.io/badge/Git-brightgreen?style=flat&logo=Git&logoColor=%23F05032&labelColor=white)](https://git-scm.com/)
 [![TortoiseGit](https://img.shields.io/badge/TortoiseGit-brightgreen?style=flat)](https://tortoisegit.org/)
 [![Github](https://img.shields.io/badge/Github-brightgreen?style=flat&logo=github&logoColor=%23181717&labelColor=white)](https://github.com/)
@@ -30,7 +30,7 @@
 <summary><font size="5"><b>History</b></font></summary> 
 
 - [TOC](#toc)<br>
-- v0.xxx 20xx/xx/xx X.Xxx Brand new document, etc.
+- v0.1 2014/09/16 S.Seo Brand new markdown template.
 
 </details>
 
