@@ -1,0 +1,3 @@
+[submodule "ProjectStructure/Gsl"]
+	path = ProjectStructure/Gsl
+	url = https://github.com/gtuja/Gsl.git
