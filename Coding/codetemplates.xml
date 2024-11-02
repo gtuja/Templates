@@ -46,19 +46,16 @@ ${namespace_end}
 /* External variables ---------------------------------------------- */
 /* Private define -------------------------------------------------- */
 /* Private typedef ------------------------------------------------- */
-/* Private functions ----------------------------------------------- */
+/* Private function prototypes ------------------------------------- */
 /* Private variables ----------------------------------------------- */
-
 /* Public functions ------------------------------------------------ */
 /* Private functions ----------------------------------------------- */
-
 /**
  * @brief   A public function that xxx.
  * @param   xxParam  A xxx parameter used for xxxx from Xxx.
  * @sa      vidXxx
  * @return  void
  */
-
 /**
  * @brief   A private function that initialize XXX.
  * @param   xxParam  A xxx parameter used for xxxx.
@@ -72,8 +69,7 @@ ${namespace_end}
 /* Includes -------------------------------------------------------- */
 /* Exported defines ------------------------------------------------ */
 /* Exported types -------------------------------------------------- */
-/* Exported functions ---------------------------------------------- */
-/* Exported variables ---------------------------------------------- */
+/* Exported functions prototypes ----------------------------------- */
 
 #endif /* ${include_guard_symbol} */
 </template><template autoinsert="true" context="org.eclipse.cdt.ui.text.codetemplates.namespace_context" deleted="false" description="Beginning of namespace declaration" enabled="true" id="org.eclipse.cdt.ui.text.codetemplates.namespace_begin" name="namespace_begin">namespace ${namespace_name} {</template><template autoinsert="true" context="org.eclipse.cdt.ui.text.codetemplates.namespace_context" deleted="false" description="End of namespace declaration" enabled="true" id="org.eclipse.cdt.ui.text.codetemplates.namespace_end" name="namespace_end">} /* namespace ${namespace_name} */</template><template autoinsert="true" context="org.eclipse.cdt.ui.text.codetemplates.class_context" deleted="false" description="Code in created class definitions" enabled="true" id="org.eclipse.cdt.ui.text.codetemplates.class_body" name="class_body">${declarations}</template><template autoinsert="true" context="org.eclipse.cdt.ui.text.codetemplates.methodbody_context" deleted="false" description="Code in created method stubs" enabled="true" id="org.eclipse.cdt.ui.text.codetemplates.methodbody" name="methodbody">	// ${todo} Auto-generated method stub
